@@ -1,6 +1,6 @@
 # jenkins installation shell
 ![jenkins](jenkins.png)
-- This shell script can install jenkins on kubernetes
+- This shell script can install jenkins on kubernetes.
 - Jenkins is an open source automation server which enables developers around the world to reliably build, test, and deploy their software.
 - [More details here!](https://www.jenkins.io/)
 
